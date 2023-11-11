@@ -2,6 +2,8 @@
 using Entities.Exceptions;
 using Entities.Models;
 using Entities.RequestFeatures;
+using Marvin.Cache.Headers;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using Presentation.ActionFilters;
@@ -15,9 +17,14 @@ using System.Threading.Tasks;
 
 namespace Presentation.Controllers
 {
+    //[ApiVersion("1.0")]
+    [ApiExplorerSettings(GroupName = "v1")]
     [ServiceFilter(typeof(LogFilterAttribute))]
     [ApiController]
     [Route("api/books")]
+    //[ResponseCache(CacheProfileName ="5mins")]
+    //[HttpCacheExpiration(CacheLocation = CacheLocation.Public, MaxAge = 80)]
+
     public class BooksController : ControllerBase
     {
         private readonly IServiceManager _manager;
@@ -27,18 +34,32 @@ namespace Presentation.Controllers
             _manager = manager;
         }
 
-        [HttpGet]
+        [Authorize]
+        [HttpHead]
+        [HttpGet(Name = "GetAllBooksAsync")]
+        [ServiceFilter(typeof(ValidateMediaTypeAttribute))]
+        //[ResponseCache(Duration =60)]
         public async Task<IActionResult> GetAllBooksAsync([FromQuery] BookParameters bookParameters) 
         {
-            var pagedResult = await _manager
+            var linkParameters = new LinkParameters()
+            {
+                BookParameters = bookParameters,
+                HttpContext = HttpContext
+            };
+
+            var result = await _manager
                 .BookService
-                .GetAllBooksAsync(bookParameters,false);
+                .GetAllBooksAsync(linkParameters,false);
 
             Response.Headers.Add("X-Pagination", 
-                JsonSerializer.Serialize(pagedResult.metaData));
+                JsonSerializer.Serialize(result.metaData));
 
-            return Ok(pagedResult.books);    
+            return result.linkResponse.HasLinks ?
+                Ok(result.linkResponse.LinkedEntities):
+                Ok(result.linkResponse.ShapedEntities);
         }
+
+        [Authorize]
         [HttpGet("{id:int}")]
         public async Task<IActionResult> GetOneBookAsync([FromRoute(Name = "id")] int id)
         {
@@ -50,8 +71,18 @@ namespace Presentation.Controllers
 
         }
 
+        [Authorize]
+        [HttpGet("details")]
+        public async Task<IActionResult> GetAllBookWithDetailsAsync()
+        {
+            return Ok(await _manager
+                .BookService
+                .GetAllBookWithDetailsAsync(false));
+        }
+
+        [Authorize(Roles = "Editor, Admin")]
         [ServiceFilter(typeof(ValidationFilterAttribute))]
-        [HttpPost]
+        [HttpPost(Name = "CreateOneBookAsync")]
         public async Task<IActionResult> CreateOneBookAsync([FromBody] BookDtoForInsertion bookDto)
         {
 
@@ -61,7 +92,7 @@ namespace Presentation.Controllers
 
         }
 
-        
+        [Authorize(Roles = "Editor, Admin")]
         [ServiceFilter(typeof(ValidationFilterAttribute))]
         [HttpPut("{id:int}")]
         public async Task<IActionResult> UpdateOneBookAsync(
@@ -75,7 +106,7 @@ namespace Presentation.Controllers
 
         }
 
-
+        [Authorize(Roles = "Admin")]
         [HttpDelete("{id:int}")]
         public async Task<IActionResult> DeleteOneBookAsync([FromRoute(Name = "id")] int id)
         {
@@ -87,9 +118,8 @@ namespace Presentation.Controllers
 
         }
 
-
+        [Authorize(Roles = "Editor, Admin")]
         [HttpPatch("{id:int}")]
-
         public async Task<IActionResult> PartiallyUpdateOneBookAsync([FromRoute(Name = "id")] int id,
             [FromBody] JsonPatchDocument<BookDtoForUpdate> bookPatch)
         {
@@ -110,7 +140,12 @@ namespace Presentation.Controllers
 
             return NoContent();
         }
-
-
+        [Authorize]
+        [HttpOptions]
+        public IActionResult GetBooksOptions()
+        {
+            Response.Headers.Add("Allow","GET, PUT, PATCH, DELETE, HEAD, OPTIONS");
+            return Ok();     
+        }       
     }
 }

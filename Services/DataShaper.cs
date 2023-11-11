@@ -19,14 +19,13 @@ namespace Services
             Properties = typeof(T)
                 .GetProperties(BindingFlags.Public | BindingFlags.Instance);
         }
-
         public IEnumerable<ShapedEntity> ShapeData(IEnumerable<T> entities, string fieldsString)
         {
             var requiredFields = GetRequiredProperties(fieldsString);
             return FetchData(entities, requiredFields);
         }
 
-        public ExpandoObject ShapeData(T entity, string fieldsString)
+        public ShapedEntity ShapeData(T entity, string fieldsString)
         {
             var requiredProperties = GetRequiredProperties(fieldsString);
             return FetchDataForEntity(entity, requiredProperties);
@@ -35,12 +34,12 @@ namespace Services
         private IEnumerable<PropertyInfo> GetRequiredProperties(string fieldsString)
         {
             var requiredFields = new List<PropertyInfo>();
-            if(!string.IsNullOrWhiteSpace(fieldsString))
+            if (!string.IsNullOrWhiteSpace(fieldsString))
             {
                 var fields = fieldsString.Split(',',
                     StringSplitOptions.RemoveEmptyEntries);
 
-                foreach ( var field in fields)
+                foreach (var field in fields)
                 {
                     var property = Properties
                         .FirstOrDefault(pi => pi.Name.Equals(field.Trim(),
@@ -48,7 +47,6 @@ namespace Services
                     if (property is null)
                         continue;
                     requiredFields.Add(property);
-                    
                 }
             }
             else
@@ -80,7 +78,7 @@ namespace Services
             IEnumerable<PropertyInfo> requiredProperties)
         {
             var shapedData = new List<ShapedEntity>();
-            foreach(var entity in entities)
+            foreach (var entity in entities)
             {
                 var shapedObject = FetchDataForEntity(entity, requiredProperties);
                 shapedData.Add(shapedObject);

@@ -140,3 +140,391 @@
 2023-11-08 14:10:21.9031 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
 2023-11-08 14:10:21.9031 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
 2023-11-08 14:10:21.9242 Info Configuration initialized.
+2023-11-08 21:28:00.1117 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-08 21:28:00.1851 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-08 21:28:00.1965 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-08 21:28:00.2066 Info Configuration initialized.
+2023-11-08 21:38:53.8326 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-08 21:38:53.8473 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-08 21:38:53.8473 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-08 21:38:53.8693 Info Configuration initialized.
+2023-11-08 21:39:10.6407 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-08 21:39:10.6407 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-08 21:39:10.6665 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-08 21:39:10.6790 Info Configuration initialized.
+2023-11-08 21:40:16.0931 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-08 21:40:16.1076 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-08 21:40:16.1207 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-08 21:40:16.1331 Info Configuration initialized.
+2023-11-08 21:41:09.4056 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-08 21:41:09.4195 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-08 21:41:09.4309 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-08 21:41:09.4437 Info Configuration initialized.
+2023-11-08 21:42:57.0138 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-08 21:42:57.0276 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-08 21:42:57.0415 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-08 21:42:57.0517 Info Configuration initialized.
+2023-11-08 21:49:10.3118 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-08 21:49:10.3272 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-08 21:49:10.3272 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-08 21:49:10.3532 Info Configuration initialized.
+2023-11-08 21:52:19.1668 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-08 21:52:19.1809 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-08 21:52:19.1930 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-08 21:52:19.2028 Info Configuration initialized.
+2023-11-09 09:43:11.4630 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 09:43:11.5128 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 09:43:11.5239 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 09:43:11.5341 Info Configuration initialized.
+2023-11-09 09:47:14.8494 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 09:47:14.8644 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 09:47:14.8787 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 09:47:14.8787 Info Configuration initialized.
+2023-11-09 09:50:49.3828 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 09:50:49.3968 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 09:50:49.4081 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 09:50:49.4081 Info Configuration initialized.
+2023-11-09 10:04:16.0561 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 10:04:16.0705 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 10:04:16.0817 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 10:04:16.0945 Info Configuration initialized.
+2023-11-09 10:17:00.3826 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 10:17:00.3980 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 10:17:00.4100 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 10:17:00.4100 Info Configuration initialized.
+2023-11-09 10:18:49.1023 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 10:18:49.1197 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 10:18:49.1312 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 10:18:49.1440 Info Configuration initialized.
+2023-11-09 10:24:53.5315 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 10:24:53.5472 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 10:24:53.5472 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 10:24:53.5694 Info Configuration initialized.
+2023-11-09 13:57:32.1644 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 13:57:32.2279 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 13:57:32.2393 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 13:57:32.2393 Info Configuration initialized.
+2023-11-09 14:42:01.3221 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 14:42:01.3371 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 14:42:01.3519 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 14:42:01.3647 Info Configuration initialized.
+2023-11-09 15:45:17.9419 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 15:45:17.9583 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 15:45:17.9706 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 15:45:17.9706 Info Configuration initialized.
+2023-11-09 15:54:24.9616 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 15:54:24.9778 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 15:54:24.9895 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 15:54:24.9997 Info Configuration initialized.
+2023-11-09 16:00:44.4960 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 16:00:44.5096 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 16:00:44.5207 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 16:00:44.5306 Info Configuration initialized.
+2023-11-09 16:08:03.4601 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 16:08:03.4744 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 16:08:03.4863 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 16:08:03.4863 Info Configuration initialized.
+2023-11-09 17:14:32.9973 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 17:14:33.0115 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 17:14:33.0229 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 17:14:33.0329 Info Configuration initialized.
+2023-11-09 17:17:39.5389 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 17:17:39.5529 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 17:17:39.5669 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 17:17:39.5795 Info Configuration initialized.
+2023-11-09 17:18:53.8784 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 17:18:53.8929 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 17:18:53.8929 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 17:18:53.9153 Info Configuration initialized.
+2023-11-09 17:23:37.6011 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 17:23:37.6149 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 17:23:37.6259 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 17:23:37.6259 Info Configuration initialized.
+2023-11-09 17:27:41.5901 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 17:27:41.6053 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 17:27:41.6189 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 17:27:41.6318 Info Configuration initialized.
+2023-11-09 18:14:53.3710 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 18:14:53.3862 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 18:14:53.3977 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 18:14:53.4077 Info Configuration initialized.
+2023-11-09 18:16:37.2700 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 18:16:37.2838 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 18:16:37.2838 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 18:16:37.3047 Info Configuration initialized.
+2023-11-09 18:19:37.3791 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 18:19:37.3948 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 18:19:37.4067 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 18:19:37.4067 Info Configuration initialized.
+2023-11-09 18:21:23.9083 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 18:21:23.9233 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 18:21:23.9233 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 18:21:23.9457 Info Configuration initialized.
+2023-11-09 18:22:17.5575 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 18:22:17.5746 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 18:22:17.5863 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 18:22:17.5970 Info Configuration initialized.
+2023-11-09 18:30:20.3419 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 18:30:20.3585 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 18:30:20.3702 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 18:30:20.3801 Info Configuration initialized.
+2023-11-09 18:32:11.2922 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 18:32:11.3068 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 18:32:11.3190 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 18:32:11.3334 Info Configuration initialized.
+2023-11-09 19:23:35.7235 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 19:23:35.7373 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 19:23:35.7373 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 19:23:35.7582 Info Configuration initialized.
+2023-11-09 19:40:28.1060 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 19:40:28.1212 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 19:40:28.1323 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 19:40:28.1428 Info Configuration initialized.
+2023-11-09 19:57:45.4096 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 19:57:45.4130 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 19:57:45.4296 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 19:57:45.4349 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 19:57:45.4436 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 19:57:45.4481 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 19:57:45.4547 Info Configuration initialized.
+2023-11-09 19:57:45.4593 Info Configuration initialized.
+2023-11-09 19:57:46.6241 Info AppDomain Shutting down. LogFactory closing...
+2023-11-09 19:57:46.6342 Info LogFactory has been closed.
+2023-11-09 19:58:31.2037 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 19:58:31.2185 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 19:58:31.2185 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 19:58:31.2392 Info Configuration initialized.
+2023-11-09 19:58:31.7232 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 19:58:31.7434 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 19:58:31.7566 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 19:58:31.7682 Info Configuration initialized.
+2023-11-09 19:58:32.6090 Info AppDomain Shutting down. LogFactory closing...
+2023-11-09 19:58:32.6090 Info LogFactory has been closed.
+2023-11-09 20:11:05.1396 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 20:11:05.1569 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 20:11:05.1739 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 20:11:05.1739 Info Configuration initialized.
+2023-11-09 20:11:05.5565 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 20:11:05.5749 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 20:11:05.5897 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 20:11:05.6023 Info Configuration initialized.
+2023-11-09 20:11:06.3855 Info AppDomain Shutting down. LogFactory closing...
+2023-11-09 20:11:06.3947 Info LogFactory has been closed.
+2023-11-09 20:11:45.9252 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 20:11:45.9407 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 20:11:45.9550 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 20:11:45.9697 Info Configuration initialized.
+2023-11-09 20:11:46.3984 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-09 20:11:46.4125 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-09 20:11:46.4240 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-09 20:11:46.4240 Info Configuration initialized.
+2023-11-09 20:11:47.2699 Info AppDomain Shutting down. LogFactory closing...
+2023-11-09 20:11:47.2699 Info LogFactory has been closed.
+2023-11-10 10:29:21.7186 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 10:29:21.7806 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 10:29:21.7925 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 10:29:21.7925 Info Configuration initialized.
+2023-11-10 10:51:16.1043 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 10:51:16.1222 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 10:51:16.1340 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 10:51:16.1340 Info Configuration initialized.
+2023-11-10 13:58:15.3787 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 13:58:15.3941 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 13:58:15.4086 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 13:58:15.4189 Info Configuration initialized.
+2023-11-10 14:34:43.5621 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 14:34:43.5793 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 14:34:43.5906 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 14:34:43.5906 Info Configuration initialized.
+2023-11-10 16:09:56.5747 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 16:09:56.6359 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 16:09:56.6359 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 16:09:56.6579 Info Configuration initialized.
+2023-11-10 16:21:12.3866 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 16:21:12.4038 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 16:21:12.4168 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 16:21:12.4168 Info Configuration initialized.
+2023-11-10 16:24:11.7924 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 16:24:11.8062 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 16:24:11.8062 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 16:24:11.8280 Info Configuration initialized.
+2023-11-10 16:32:21.2954 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 16:32:21.3093 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 16:32:21.3093 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 16:32:21.3335 Info Configuration initialized.
+2023-11-10 16:38:02.7821 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 16:38:02.7964 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 16:38:02.8079 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 16:38:02.8079 Info Configuration initialized.
+2023-11-10 17:13:16.4103 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 17:13:16.4257 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 17:13:16.4401 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 17:13:16.4533 Info Configuration initialized.
+2023-11-10 17:20:34.9280 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 17:20:34.9459 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 17:20:34.9592 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 17:20:34.9735 Info Configuration initialized.
+2023-11-10 18:15:22.1705 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 18:15:22.1871 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 18:15:22.1984 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 18:15:22.1984 Info Configuration initialized.
+2023-11-10 18:22:55.8785 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 18:22:55.8947 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 18:22:55.9093 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 18:22:55.9231 Info Configuration initialized.
+2023-11-10 18:22:56.5678 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 18:22:56.5841 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 18:22:56.5970 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 18:22:56.6080 Info Configuration initialized.
+2023-11-10 18:22:57.8098 Info AppDomain Shutting down. LogFactory closing...
+2023-11-10 18:22:57.8098 Info LogFactory has been closed.
+2023-11-10 18:23:45.9127 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 18:23:45.9270 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 18:23:45.9380 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 18:23:45.9481 Info Configuration initialized.
+2023-11-10 18:23:46.4003 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 18:23:46.4003 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 18:23:46.4260 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 18:23:46.4361 Info Configuration initialized.
+2023-11-10 18:23:47.2942 Info AppDomain Shutting down. LogFactory closing...
+2023-11-10 18:23:47.3069 Info LogFactory has been closed.
+2023-11-10 20:01:29.5366 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 20:01:29.5916 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 20:01:29.6042 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 20:01:29.6209 Info Configuration initialized.
+2023-11-10 20:10:14.9778 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 20:10:14.9919 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 20:10:15.0031 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 20:10:15.0130 Info Configuration initialized.
+2023-11-10 20:13:17.4002 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 20:13:17.4002 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 20:13:17.4253 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 20:13:17.4353 Info Configuration initialized.
+2023-11-10 20:19:56.0988 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 20:19:56.1128 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 20:19:56.1268 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 20:19:56.1375 Info Configuration initialized.
+2023-11-10 20:24:21.6363 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 20:24:21.6502 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 20:24:21.6502 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 20:24:21.6711 Info Configuration initialized.
+2023-11-10 20:29:17.1134 Info AppDomain Shutting down. LogFactory closing...
+2023-11-10 20:29:17.1501 Info LogFactory has been closed.
+2023-11-10 20:29:31.9931 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 20:29:32.0098 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 20:29:32.0098 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 20:29:32.0340 Info Configuration initialized.
+2023-11-10 20:39:45.5103 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-10 20:39:45.5250 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-10 20:39:45.5250 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-10 20:39:45.5478 Info Configuration initialized.
+2023-11-10 21:02:15.0899 Info AppDomain Shutting down. LogFactory closing...
+2023-11-10 21:02:15.1028 Info LogFactory has been closed.
+2023-11-11 14:50:36.7480 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 14:50:36.7689 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 14:50:36.7802 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 14:50:36.7907 Info Configuration initialized.
+2023-11-11 14:50:37.8700 Info AppDomain Shutting down. LogFactory closing...
+2023-11-11 14:50:37.8700 Info LogFactory has been closed.
+2023-11-11 14:51:13.3621 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 14:51:13.3762 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 14:51:13.3869 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 14:51:13.3869 Info Configuration initialized.
+2023-11-11 14:51:14.6638 Info AppDomain Shutting down. LogFactory closing...
+2023-11-11 14:51:14.6728 Info LogFactory has been closed.
+2023-11-11 14:51:39.2384 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 14:51:39.2531 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 14:51:39.2733 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 14:51:39.2836 Info Configuration initialized.
+2023-11-11 14:51:40.3694 Info AppDomain Shutting down. LogFactory closing...
+2023-11-11 14:51:40.3694 Info LogFactory has been closed.
+2023-11-11 14:52:08.1973 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 14:52:08.1973 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 14:52:08.2226 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 14:52:08.2325 Info Configuration initialized.
+2023-11-11 14:52:10.0821 Info AppDomain Shutting down. LogFactory closing...
+2023-11-11 14:52:10.0913 Info LogFactory has been closed.
+2023-11-11 15:40:37.1117 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 15:40:37.1643 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 15:40:37.1782 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 15:40:37.1883 Info Configuration initialized.
+2023-11-11 15:52:40.1231 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 15:52:40.1966 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 15:52:40.1966 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 15:52:40.2191 Info Configuration initialized.
+2023-11-11 16:02:02.6961 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 16:02:02.7151 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 16:02:02.7321 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 16:02:02.7484 Info Configuration initialized.
+2023-11-11 16:02:03.2396 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 16:02:03.2550 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 16:02:03.2665 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 16:02:03.2768 Info Configuration initialized.
+2023-11-11 16:02:04.0489 Info AppDomain Shutting down. LogFactory closing...
+2023-11-11 16:02:04.0637 Info LogFactory has been closed.
+2023-11-11 16:02:18.0593 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 16:02:18.0738 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 16:02:18.0738 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 16:02:18.0954 Info Configuration initialized.
+2023-11-11 16:02:18.6361 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 16:02:18.6522 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 16:02:18.6653 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 16:02:18.6653 Info Configuration initialized.
+2023-11-11 16:02:19.3745 Info AppDomain Shutting down. LogFactory closing...
+2023-11-11 16:02:19.3843 Info LogFactory has been closed.
+2023-11-11 16:15:32.4598 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 16:15:32.4764 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 16:15:32.4892 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 16:15:32.5009 Info Configuration initialized.
+2023-11-11 16:20:13.7608 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 16:20:13.7758 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 16:20:13.7758 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 16:20:13.7971 Info Configuration initialized.
+2023-11-11 16:22:57.5768 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 16:22:57.6063 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 16:22:57.6222 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 16:22:57.6368 Info Configuration initialized.
+2023-11-11 16:24:57.5044 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 16:24:57.5437 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 16:24:57.5673 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 16:24:57.5876 Info Configuration initialized.
+2023-11-11 17:00:49.8525 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 17:00:49.8750 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 17:00:49.8895 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 17:00:49.8996 Info Configuration initialized.
+2023-11-11 17:10:04.9815 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 17:10:04.9961 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 17:10:04.9961 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 17:10:05.0182 Info Configuration initialized.
+2023-11-11 18:03:08.4856 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 18:03:08.5000 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 18:03:08.5114 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 18:03:08.5114 Info Configuration initialized.
+2023-11-11 18:10:37.7715 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 18:10:37.7869 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 18:10:37.8022 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 18:10:37.8139 Info Configuration initialized.
+2023-11-11 18:11:05.2649 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 18:11:05.2793 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 18:11:05.2918 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 18:11:05.2918 Info Configuration initialized.
+2023-11-11 18:19:42.9110 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 18:19:42.9431 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 18:19:42.9566 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 18:19:42.9674 Info Configuration initialized.
+2023-11-11 18:20:16.5729 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 18:20:16.6097 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 18:20:16.6294 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 18:20:16.6584 Info Configuration initialized.
+2023-11-11 18:21:21.4323 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 18:21:21.4648 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 18:21:21.4874 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 18:21:21.5076 Info Configuration initialized.
+2023-11-11 18:38:32.5409 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 18:38:32.5978 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 18:38:32.6091 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 18:38:32.6193 Info Configuration initialized.
+2023-11-11 18:40:04.8892 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-11 18:40:04.9038 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-11 18:40:04.9162 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\koray\Desktop\Asp.Net Core Web API\bStoreApp\WebApi\nlog.config
+2023-11-11 18:40:04.9162 Info Configuration initialized.

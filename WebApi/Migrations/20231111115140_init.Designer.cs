@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Repositories.EFCore;
 
@@ -11,9 +12,10 @@ using Repositories.EFCore;
 namespace WebApi.Migrations
 {
     [DbContext(typeof(RepositoryContext))]
-    partial class RepositoryContextModelSnapshot : ModelSnapshot
+    [Migration("20231111115140_init")]
+    partial class init
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -30,9 +32,6 @@ namespace WebApi.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<int>("CategoryId")
-                        .HasColumnType("int");
-
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
 
@@ -42,29 +41,24 @@ namespace WebApi.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CategoryId");
-
                     b.ToTable("Books");
 
                     b.HasData(
                         new
                         {
                             Id = 1,
-                            CategoryId = 1,
                             Price = 75m,
                             Title = "Karagöz ve Hacivat"
                         },
                         new
                         {
                             Id = 2,
-                            CategoryId = 2,
                             Price = 175m,
                             Title = "Mesnevi"
                         },
                         new
                         {
                             Id = 3,
-                            CategoryId = 1,
                             Price = 275m,
                             Title = "Devlet"
                         });
@@ -210,22 +204,22 @@ namespace WebApi.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "7f7de5d1-7387-4cfa-bec3-b6453909c1b5",
-                            ConcurrencyStamp = "e9888d2e-b9b4-4ef2-8d1d-50c85cc752cd",
+                            Id = "ed52d6e6-1942-4450-a395-3108998def2c",
+                            ConcurrencyStamp = "54c69507-75a0-42e6-9bec-d439580b6356",
                             Name = "User",
                             NormalizedName = "USER"
                         },
                         new
                         {
-                            Id = "06825aa5-3b81-45c0-a491-3fd6d26165bc",
-                            ConcurrencyStamp = "d4c11f0f-7f95-4ab9-82cb-e5a58e2c490d",
+                            Id = "7a253d0e-7d71-45e1-aecc-aaeac311809d",
+                            ConcurrencyStamp = "f297b74f-bdef-4ed3-9010-e516e66879e1",
                             Name = "Editor",
                             NormalizedName = "EDITOR"
                         },
                         new
                         {
-                            Id = "61ecb0e5-883d-4079-8a1d-e7d2cc601210",
-                            ConcurrencyStamp = "0b5c43d9-8782-41e7-9c97-20301595c611",
+                            Id = "85733f42-6ca9-4510-9ead-fc54a01cada8",
+                            ConcurrencyStamp = "fabb827d-426e-4236-976a-00aab8e78830",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         });
@@ -337,17 +331,6 @@ namespace WebApi.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("Entities.Models.Book", b =>
-                {
-                    b.HasOne("Entities.Models.Category", "Category")
-                        .WithMany("Books")
-                        .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Category");
-                });
-
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -397,11 +380,6 @@ namespace WebApi.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("Entities.Models.Category", b =>
-                {
-                    b.Navigation("Books");
                 });
 #pragma warning restore 612, 618
         }
